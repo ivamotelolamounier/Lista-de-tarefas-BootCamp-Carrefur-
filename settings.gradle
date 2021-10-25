@@ -1,0 +1,2 @@
+rootProject.name = "App Lista de Tarefas"
+include ':app'
